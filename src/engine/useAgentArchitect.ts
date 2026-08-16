@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/engine/useAgentArchitect.ts
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 import { useState, useCallback } from 'react';
 import { Agent, WorldState, Nation } from '../types';
 import { getGitHubConfig } from '../lib/github';
