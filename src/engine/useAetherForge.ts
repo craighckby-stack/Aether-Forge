@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/engine/useAetherForge.ts
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 import { useState, useEffect, useRef, useCallback } from "react";
 import { Agent, ResourceNode, WorldState, EpochType, Archetype, EPOCH_DATA, EventRecord, Nation, Ideology, CosmicPhase, PHASE_THRESHOLDS, AtmosphereCondition } from "./types";
 import { db, auth } from "../lib/firebase";
