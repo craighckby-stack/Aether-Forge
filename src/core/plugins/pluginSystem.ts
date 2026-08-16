@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/core/plugins/pluginSystem.ts
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 export interface PluginHooks {
   onMemoryAdd?: (context: any) => Promise<any> | any;
   onAgentDecision?: (context: any) => Promise<any> | any;
