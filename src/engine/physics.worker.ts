@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/engine/physics.worker.ts
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 import { Archetype, EpochType, Agent, ResourceNode, Nation } from "./types";
 
 // Setup types for incoming and outgoing messages
