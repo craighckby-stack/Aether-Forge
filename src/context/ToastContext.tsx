@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/context/ToastContext.tsx
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 import React, { createContext, useContext, useState, useCallback, useEffect, useRef } from "react";
 import { ToasterOverlay } from "../components/ToasterOverlay";
 
