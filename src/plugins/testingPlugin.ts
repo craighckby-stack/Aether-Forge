@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/plugins/testingPlugin.ts
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 import { pluginSystem, Plugin } from '../core/plugins/pluginSystem';
 
 export class TestingPlugin implements Plugin {
