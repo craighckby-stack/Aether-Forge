@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/components/TopTickerBanner.tsx
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 import { useEffect, useState, useRef } from "react";
 import { motion } from "motion/react";
 import { WorldState } from "../engine/types";
