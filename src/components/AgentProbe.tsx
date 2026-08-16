@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/components/AgentProbe.tsx
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 import React, { useState } from "react";
 import { Agent, WorldState, Archetype } from "../engine/types";
 import { X, Brain, Zap, Shield, HeartPulse, History, Globe, Crown, Send, MessageSquare, Sparkles, Users } from "lucide-react";
