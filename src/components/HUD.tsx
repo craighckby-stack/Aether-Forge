@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/components/HUD.tsx
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 import React from "react";
 import { WorldState, EPOCH_DATA, EpochType, Ideology, CosmicPhase, PHASE_THRESHOLDS } from "../engine/types";
 import { Play, Pause, RotateCcw, Activity, Globe, ShieldAlert, Cpu, Zap, Flame, Radiation, ZapOff, Sparkles, AlertTriangle, Heart, Skull, Crown, Book, Cross, Wind, Ghost, Sun, Github, Mail, Inbox, Folder, FolderOpen, ExternalLink, Check } from "lucide-react";
