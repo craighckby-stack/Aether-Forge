@@ -1,3 +1,10 @@
+/**
+ * DARLEK CANN ARCHITECTURAL HEADER
+ * File: src/components/PrayerInboxModal.tsx
+ * Role: Core system component participating in autonomous cognitive evolution cycles.
+ * Architecture: Type-safe modular unit with resilient state interfaces.
+ */
+
 import React, { useState } from "react";
 import { Agent, WorldState, PrayerEmail, Archetype } from "../engine/types";
 import { X, Mail, MailOpen, Send, Check, Trash2, ShieldAlert, Cpu, Sparkles, AlertTriangle, Scroll, ExternalLink, Folder, Github } from "lucide-react";
